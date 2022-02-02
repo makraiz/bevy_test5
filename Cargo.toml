@@ -16,5 +16,4 @@ bevy_ecs_tilemap = "0.5"
 # https://github.com/StarArawn/bevy_ecs_tilemap
 # https://github.com/jeremychone-channel/rust-invaders
 # https://mbuffett.com/posts/bevy-snake-tutorial/
-# https://bevy-cheatbook.github.io/features/transforms.html
-# 
+# https://bevy-cheatbook.github.io/
