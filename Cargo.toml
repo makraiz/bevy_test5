@@ -9,3 +9,12 @@ edition = "2021"
 bevy = "0.6"
 bevy_egui = "0.10"
 bevy_ecs_tilemap = "0.5"
+
+# interesting links
+# https://github.com/pyweeker/bevy_egui_paneled_playground
+# https://github.com/mvlabat/bevy_egui
+# https://github.com/StarArawn/bevy_ecs_tilemap
+# https://github.com/jeremychone-channel/rust-invaders
+# https://mbuffett.com/posts/bevy-snake-tutorial/
+# https://bevy-cheatbook.github.io/features/transforms.html
+# 
